@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="bin">
+    <CLASSES>
+      <root url="file://E:/Tomcat/bin" />
+      <root url="file://E:/Tomcat/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/Tomcat/lib/servlet-api.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://E:/Tomcat/bin" recursive="false" />
+    <jarDirectory url="file://E:/Tomcat/lib" recursive="false" />
+  </library>
+</component>
